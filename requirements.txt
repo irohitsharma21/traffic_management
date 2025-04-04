@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+torchaudio
+ultralytics
+opencv-python
+pillow
+numpy
+librosa
+moviepy
+tensorflow
+keras
